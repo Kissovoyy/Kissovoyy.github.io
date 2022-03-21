@@ -9,6 +9,7 @@ You can use the [editor on GitHub](https://github.com/Kissovoyy/Kissovoyy.github
 
  - [物理仿真实验](http://aryun.ustcori.com:6382/ReportStudent/SStartPage/SStartPage#addundefined)
  - [学校](https://www.xaufe.edu.cn/)
+ - [爱奇艺](https://www.iqiyi.com/)
 
 
 
